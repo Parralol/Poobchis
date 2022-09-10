@@ -44,7 +44,7 @@ public class POOBCHISGUI extends JFrame{
     
     public POOBCHISGUI(){
     }
-
+    private boolean isalive = false;
     /*
     Clase para la ventana 1, ventana de POOBCHIS
     */
